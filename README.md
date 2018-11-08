@@ -10,6 +10,6 @@ Java 8, Spring boot and maven
 1. to build : > mvn clean install
 2. to run 	: > mvn spring-boot:run 
 
-### When run locally, the application's services are available at : [http://localhost:8080/swagger-ui.html/](http://localhost:8080/swagger-ui.html/)
+### When application run locally, the application's services are available at : [http://localhost:8080/swagger-ui.html/](http://localhost:8080/swagger-ui.html/)
 
 ### After running application in local to access the swagger Url Username : ekahau and password: ekahau@123
